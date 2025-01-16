@@ -41,7 +41,7 @@ const projects = [
     description:
       "A professional real estate website designed to feature exclusive properties in Almería, Spain, targeting discerning buyers.",
     image: geston,
-    live: "https://google.com",
+    live: "https://geston-properties.vercel.app",
   },
   {
     title: "Luxury Real Estate Platform in Costa Brava, Spain",
