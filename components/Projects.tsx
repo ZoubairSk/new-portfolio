@@ -67,7 +67,7 @@ export default function Projects() {
         {projects.map((project) => (
           <div
             key={project.title}
-            className="group relative overflow-hidden rounded-lg flex items-center"
+            className="group relative overflow-hidden rounded-lg flex items-center text-center"
           >
             <Image
               src={project.image}
