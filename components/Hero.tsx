@@ -13,7 +13,7 @@ export default function Hero() {
   return (
     <section className="h-screen flex flex-col justify-center items-center text-center">
       <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6 animate-fade-in">
-        Zoubair Skiredj
+        Zubayr Skirej
       </h1>
       <p className="text-xl sm:text-2xl md:text-3xl mb-12 animate-fade-in animation-delay-300">
         Full Stack Developer
